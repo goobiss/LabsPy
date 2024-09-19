@@ -1,0 +1,12 @@
+Language  ISO-639 code Text gt
+----------------------------------
+afrikaans af Hoe is die lewe vriende?
+albanian sq Si është jeta miq?
+amharic am የሕይወት ጓደኞች እንዴት ናቸው?
+arabic ar كيف هي أصدقاء الحياة؟
+armenian hy Ինչպե՞ս է կյանքը ընկերներ:
+azerbaijani az Həyat necədir dostlar?
+basque eu Nola da bizitza lagunak?
+belarusian be Як жыццё сяброў?
+bengali bn বন্ধুরা জীবনটা কেমন?
+bosnian bs Kako je život prijatelji?
